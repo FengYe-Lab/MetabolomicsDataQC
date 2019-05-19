@@ -1,4 +1,4 @@
-Mainly used for quality control of metabolome data, based on R language.
+Mainly used for quality control of metabolomics data, based on R language
 
 There are 6 ways "QC-RLSC","quantileComBat","eigenMS","vsn","batchNorm","qc-RLSC","QC-RFSC"
 
